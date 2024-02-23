@@ -1,0 +1,11 @@
+# Ignore build output
+/dist
+
+# Ignore node_modules
+/node_modules
+
+# Ignore generated files
+/.vite
+
+# Ignore coverage reports
+/coverage
